@@ -56,7 +56,7 @@ var contributors = [{
         name: "Chanchal Sharma",
          username: "ChanchalSharma51",
          college: "PIET",
-         year: 2
+         year: 1
      },
      {
         name: "Tanishk Bansal",
